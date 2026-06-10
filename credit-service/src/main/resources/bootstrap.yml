@@ -6,4 +6,4 @@ spring:
       uri: http://localhost:8888
       fail-fast: true
       #username: config-user
-      #password: config-password
+      #password: cong-password
